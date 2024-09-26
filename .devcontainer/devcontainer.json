@@ -1,6 +1,5 @@
 {
-   // "build": { "dockerfile": "Dockerfile" },
-    "image": "brent811/diygenai:2.0.0",
+    "build": { "dockerfile": "Dockerfile" },
     "hostRequirements": {
        "cpus": 4,
        "memory": "16gb",
